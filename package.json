@@ -1,0 +1,23 @@
+{
+  "name": "@jsprismarine/generator-overworld",
+  "version": "0.0.1",
+  "description": "",
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JSPrismarine/Generator-Overworld.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JSPrismarine/Generator-Overworld/issues"
+  },
+  "homepage": "https://github.com/JSPrismarine/Generator-Overworld#readme",
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  }
+}
